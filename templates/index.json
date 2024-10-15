@@ -15,7 +15,11 @@
         "heading": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "Browse our latest products local changes GIT RULES",
+=======
+            "heading": "Browse our latest products local changes live",
+>>>>>>> origin/main
             "heading_size": "h0"
           }
         },
