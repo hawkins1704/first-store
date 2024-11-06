@@ -1,0 +1,10 @@
+{% assign my_number = 10 %}
+
+{% assign my_new_number=my_number + 5 %}
+
+{{ my_new_number }}
+<ul>
+  {% for product in products %}
+    <li>{{ product.title }}</li>
+  {% endfor %}
+</ul>
